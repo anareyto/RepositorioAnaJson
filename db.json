@@ -1,42 +1,52 @@
 {
     "computers" : [{
-          "name": "red",
-          "specs": "#FF0000"
+          "name": "iMac 21.5in",
+          "specs": "All In One Desktop, 8GB Memory, 1TB Hard Drive, Mac OS X Mountain Lion. Core i5."
+          "imageC": "https://images-na.ssl-images-amazon.com/images/I/71pheYd9W0L._AC_SL1500_.jpg"
         },
         {
-          "name": "green",
-          "specs": "#00FF00"
+          "name": "MacBook Pro",
+          "specs": "8th gen Intel Core i5, 128GB SSD, 8GB RAM, Retina display with True Tone."
+          "imageC": "https://cdn.shopify.com/s/files/1/1525/0840/products/MBP13RD-TB-PT-Open105-Svr_ANSI-US-EN-PRINT.jpg?v=1554316513"
         },
         {
-          "name": "blue",
-          "specs": "#0000FF"
+          "name": "iBuyPower gaming computer",
+          "specs": "Amd Ryzen 5 2600x, 16GB DDR4 RAM, Amd RX 580."
+          "imageC": "https://content.ibuypower.com/Images/Components/12417/RaidmaxAlpha_Main_Black_RGB_1200.png"
         },
         {
-          "name": "cyan",
-          "specs": "#00FFFF"
+          "name": "ThermalTake gaming computer",
+          "specs": "Amd Ryzen 9 3900X, 16GB DDR4 RAM, Amd RX 590."
+          "imageC": "https://content.ibuypower.com/Images/Components/14231/ThermaltakeView31RGB-01-1200n.png"
         },
         {
-          "name": "magenta",
-          "specs": "#FF00FF"
+          "name": "SkyTech Venus gaming computer, Limited Edition.",
+          "specs": "Amd Ryzen 3 1200, GTX 1050Ti, 8GB DDR4 RAM."
+          "imageC": "https://images-na.ssl-images-amazon.com/images/I/71W0mAVxKgL._SL1500_.jpg"
         },
         {
-          "name": "yellow",
-          "specs": "#FFFF00"
+          "name": "Razer Quartz Pink Blade Stealth 13",
+          "specs": "Quad-Core 8th Gen Intel Core i7-8565U processor, NVIDIA GeForce MX150, 256 GB SSD, 16GB RAM."
+          "imageC": "https://images.anandtech.com/doci/14243/Razer_Pink_blade-678_678x452.jpg"
         },
         {
-          "name": "grey",
-          "specs": "#808080"
+          "name": "HP Omen gaming computer",
+          "specs": "Core i7 processor, 8GB of memory, and a 1TB HDD. 2GB for graphics."
+          "imageC": "https://store.hp.com/app/assets/images/uploads/prod/hp-omen-gaming-computers-review-11532385241220.png"
         },
         {
-          "name": "white",
-          "specs": "#FFFFFF"
+          "name": "Gamer Xtreme XT gaming computer",
+          "specs": "Intel® Core™ Processor i9-9900K, 16GB DDR4, GTX 1080Ti."
+          "imageC": "https://www.cyberpowerpc.com/images/cs/PCO11/cs-193-101.png"
         },
         {
-          "name": "salmon",
-          "specs": "#FA8072 "
+          "name": "Acer Predator gaming computer",
+          "specs": "Intel core i3, NVIDIA GeForce GTX 1060, 8GB DDR4 RAM."
+          "imageC": "https://http2.mlstatic.com/acer-predator-helios-300-156-quotfull-hd-gaming-laptop-p-D_NQ_NP_635417-MCO27048777600_032018-F.jpg"
         },
         {
-          "name": "gold",
-          "specs": "#FFD700"
+          "name": "X-enerq gaming computer",
+          "specs": "Amd Ryzen 5 2600, RX 580 8GB, 8GB DDR4 RAM."
+          "imageC": "https://i5.walmartimages.com/asr/6ddb1d07-2961-4d3b-a3ca-87091d156268_1.2f201fa80fe79911203e028b27b4cf92.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF"
         }]
 }
