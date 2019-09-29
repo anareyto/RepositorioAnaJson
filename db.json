@@ -1,42 +1,42 @@
-[
-  {
-    "name": "red",
-    "value": "#FF0000"
-  },
-  {
-    "name": "green",
-    "value": "#00FF00"
-  },
-  {
-    "name": "blue",
-    "value": "#0000FF"
-  },
-  {
-    "name": "cyan",
-    "value": "#00FFFF"
-  },
-  {
-    "name": "magenta",
-    "value": "#FF00FF"
-  },
-  {
-    "name": "yellow",
-    "value": "#FFFF00"
-  },
-  {
-    "name": "grey",
-    "value": "#808080"
-  },
-  {
-    "name": "white",
-    "value": "#FFFFFF"
-  },
-  {
-    "name": "salmon",
-    "value": "#FA8072 "
-  },
-  {
-    "name": "gold",
-    "value": "#FFD700"
-  }
-]
+{
+    "colors" : [{
+          "name": "red",
+          "value": "#FF0000"
+        },
+        {
+          "name": "green",
+          "value": "#00FF00"
+        },
+        {
+          "name": "blue",
+          "value": "#0000FF"
+        },
+        {
+          "name": "cyan",
+          "value": "#00FFFF"
+        },
+        {
+          "name": "magenta",
+          "value": "#FF00FF"
+        },
+        {
+          "name": "yellow",
+          "value": "#FFFF00"
+        },
+        {
+          "name": "grey",
+          "value": "#808080"
+        },
+        {
+          "name": "white",
+          "value": "#FFFFFF"
+        },
+        {
+          "name": "salmon",
+          "value": "#FA8072 "
+        },
+        {
+          "name": "gold",
+          "value": "#FFD700"
+        }]
+}
