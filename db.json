@@ -1,42 +1,42 @@
 {
     "computers" : [{
           "name": "red",
-          "value": "#FF0000"
+          "specs": "#FF0000"
         },
         {
           "name": "green",
-          "value": "#00FF00"
+          "specs": "#00FF00"
         },
         {
           "name": "blue",
-          "value": "#0000FF"
+          "specs": "#0000FF"
         },
         {
           "name": "cyan",
-          "value": "#00FFFF"
+          "specs": "#00FFFF"
         },
         {
           "name": "magenta",
-          "value": "#FF00FF"
+          "specs": "#FF00FF"
         },
         {
           "name": "yellow",
-          "value": "#FFFF00"
+          "specs": "#FFFF00"
         },
         {
           "name": "grey",
-          "value": "#808080"
+          "specs": "#808080"
         },
         {
           "name": "white",
-          "value": "#FFFFFF"
+          "specs": "#FFFFFF"
         },
         {
           "name": "salmon",
-          "value": "#FA8072 "
+          "specs": "#FA8072 "
         },
         {
           "name": "gold",
-          "value": "#FFD700"
+          "specs": "#FFD700"
         }]
 }
