@@ -2,12 +2,12 @@
     "computers" : [{
           "name": "iMac 21.5in",
           "specs": "All In One Desktop, 8GB Memory, 1TB Hard Drive, Mac OS X Mountain Lion. Core i5.",
-          "imageC": "https://images-na.ssl-images-amazon.com/images/I/71pheYd9W0L._AC_SL1500_.jpg"
+          "imageC": "https://www.itrixbox.com/wp-content/uploads/Apple_iMac_trixboxmexico.png"
         },
         {
           "name": "MacBook Pro",
           "specs": "8th gen Intel Core i5, 128GB SSD, 8GB RAM, Retina display with True Tone.",
-          "imageC": "https://cdn.shopify.com/s/files/1/1525/0840/products/MBP13RD-TB-PT-Open105-Svr_ANSI-US-EN-PRINT.jpg?v=1554316513"
+          "imageC": "https://www.shopaztecs.com/images/product/medium/13952.png"
         },
         {
           "name": "iBuyPower gaming computer",
